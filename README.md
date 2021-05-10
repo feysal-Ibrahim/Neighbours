@@ -25,11 +25,8 @@ https://nyumba10.herokuapp.com/
 ## Known Bugs/Updates
 Application is still in development stages and still being updated on a few other minor functionalities. In case You have any issues using this code please get in touch with me through contact below or leave a comment here on github.
 ## Contact details
-You can contact me at addictivefazman@gmail.com
-## Acknowledgements
-1. **_`Cynthia Kasambuli`_**
-2. **_`Sam Ngingi`_**
-3. **_`Boyd Ndoga`_**
+You can contact me at iamfeysal@gmail.com
+
 ## License
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
